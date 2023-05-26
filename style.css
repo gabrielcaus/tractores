@@ -2,3 +2,7 @@
     width: 50px!important;
     height: 40px!important;
 }
+.texas{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
